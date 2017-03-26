@@ -1,0 +1,4 @@
+To run this patch, you need to
+- move the project to path '~/cycle3' because of the speech audio outputs.
+- install following voices in accessibility (I thought that these were default in OS X, but they were not installed in the iMac I used today.): 
+Alex, Kathy, Yuna, Whisper, Zarvox, Vicki, Agnes, Princess, Bruce, Junior, Albert, Bad News, Bahh, Bells, Trinoids, Boing, Bubbles, Cellos, Deranged, Good News, Hysterical, Kyoko, Pipe Organ
